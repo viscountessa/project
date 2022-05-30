@@ -1,2 +1,2 @@
-# project
+# projects
 first_project
